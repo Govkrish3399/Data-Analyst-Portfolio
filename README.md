@@ -13,7 +13,7 @@ The repository showcase my skills in uncovering business insight  using differen
 
  **Table of Contents**
 
- - [About](https://github.com/Govkrish3399/Data-Analyst-Portfolio/tree/main/About)
+ - [About](About)
  - [Education](https://github.com/Govkrish3399/Data-Analyst-Portfolio/tree/main/Education)
  - [Certificates](Certificates)
  - [Contacts](Contacts)
