@@ -18,7 +18,7 @@ The repository showcase my skills in uncovering business insight  using differen
  - [Certificates](https://github.com/Govkrish3399/Data-Analyst-Portfolio/blob/main/README.md#certificates)
  - [Contact](https://github.com/Govkrish3399/Data-Analyst-Portfolio/blob/main/README.md#contact)
 
--**Personal Projects**
+**Personal Projects**
 
  **Project 1**: Credit Risk Assessment Analysis
  
