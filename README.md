@@ -32,7 +32,7 @@ Skills: Data cleaning,Data analysis,Correlation analysis, Data visualization.
 
 Technology toos: Python, Pandas, Matplotlib, Seaborn.
 
-Results: From the correlatio analysis, found out variable like EXT_Source 1, EXT_Source 2, EXT_Source 3, DAYS_BIRTH shows correlation with approval decision indication these features could play an important role in predicting credit decision. Observed differences in default contract rates, based on this wisdom lending institution should consider tailoring risk assessment and terms based on contract rates.
+Results: From the correlation analysis, found out variable like EXT_Source 1, EXT_Source 2, EXT_Source 3, DAYS_BIRTH shows correlation with approval decision indication these features could play an important role in predicting credit decision. Observed differences in default contract rates, based on this wisdom lending institution should consider tailoring risk assessment and terms based on contract rates.
 
 **Project 2**: Covid 19 data exploration
 
