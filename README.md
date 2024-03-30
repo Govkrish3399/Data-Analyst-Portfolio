@@ -13,4 +13,6 @@ The repository showcase my skills in uncovering business insight  using differen
 Table of Contents:
 
 1) Personal Projects
-    
+    https://github.com/Govkrish3399/Exploring-Covid-19-data-set-using-SQL-server-management-studio.git
+   
+   
