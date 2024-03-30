@@ -12,4 +12,5 @@ The repository showcase my skills in uncovering business insight  using differen
 
 Table of Contents:
 
-1) 
+1) Personal Projects
+   
