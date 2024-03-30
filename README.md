@@ -6,3 +6,10 @@ My name is Govind K, a data savvy who is passionate about data driven technologi
 
 During my free time, I would spend time in reading books, watch techology related videos and udate myself with new technological trends.
 
+Sharing my CV: 
+
+The repository showcase my skills in uncovering business insight  using different analytical tools, share my projects and certificates.
+
+Table of Contents:
+
+1) 
