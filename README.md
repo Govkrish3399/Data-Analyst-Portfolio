@@ -14,9 +14,9 @@ The repository showcase my skills in uncovering business insight  using differen
  **Table of Contents**
 
  - [About](https://github.com/Govkrish3399/Data-Analyst-Portfolio/blob/main/README.md#About)
- - [Education](https://github.com/Govkrish3399/Data-Analyst-Portfolio/tree/main/Education)
- - [Certificates](Certificates)
- - [Contact](Contact)
+ - [Education](https://github.com/Govkrish3399/Data-Analyst-Portfolio/blob/main/README.md#Education)
+ - [Certificates](https://github.com/Govkrish3399/Data-Analyst-Portfolio/blob/main/README.md#Certificates)
+ - [Contact](https://github.com/Govkrish3399/Data-Analyst-Portfolio/blob/main/README.md#Contac)
 
 -**Personal Projects**
 
