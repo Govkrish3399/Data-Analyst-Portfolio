@@ -60,7 +60,7 @@ Amrita School of Biotechnology,Kollam, India: BSc Biotechnology, June 2012-May 2
 
  **Contact**
  
- -[Linkedln](https://www.linkedin.com/in/govind-krishnadas/)
+ - [Linkedln](https://www.linkedin.com/in/govind-krishnadas/)
  
  
 
