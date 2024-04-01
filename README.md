@@ -4,7 +4,7 @@
 
 Hello folks, my name is Govind K, a data savvy who is passionate about data driven technologies, and specializes in cleaning, extracting, transforming, summarizing data to discover strategic insights to improve data driven decisions. I hold a Master's in Business Analytics from Maynooth University, Ireland and also have a major in Bioinformatics as well from Amrita School of Biotechnology, Kollam, India . I am someone who thrives in dynamic environments who likes to continuously learn new skills and support organizations through my analytical and strategic skills. During my professional journey , I have a strong record of accomplishments. During my time at SalesEra, I achieved a 10% increase in YOY revenue for the client and 20% boost in customer loyalty towards their product. As a proactive problem solver , my goal is to help organizations achieve bottom-line results. 
 
-During my free time, I spend time in reading books, watch technology related videos and udate myself with new technological trends.
+During my free time, I spend time in reading books, watch technology related videos and update myself with new technological trends.
 
 My Professional CV:[Govind-Krishnadas_CV.pdf](https://github.com/Govkrish3399/Data-Analyst-Portfolio/files/14812343/Govind-Krishnadas_CV.pdf)
   
