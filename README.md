@@ -6,9 +6,6 @@ Hello folks, my name is Govind K, a data savvy who is passionate about data driv
 
 During my free time, I spend time in reading books, watch technology related videos and update myself with new technological trends.
 
-My Professional CV:[Govind-Krishnadas_CV.pdf](https://github.com/Govkrish3399/Data-Analyst-Portfolio/files/14812343/Govind-Krishnadas_CV.pdf)
-  
-
 The repository showcase my skills in uncovering business insight  using different analytical tools, share my projects and certificates.
 
  **Table of Contents**
@@ -20,19 +17,38 @@ The repository showcase my skills in uncovering business insight  using differen
 
 **Personal Projects**
 
- **Project 1**: Credit Risk Assessment Analysis
+ **Project 1**: Forecasting Car Prices in Belarus
  
- Code: [EDA_CREDIT_RISK_ANALYSIS_GOVIND.ipynb](https://github.com/Govkrish3399/CREDIT-RISK-ASSESSMENT-ANALYSIS/blob/main/EDA_CREDIT_RISK_ANALYSIS_GOVIND.ipynb)
+ Code: [Car_Price_Prediction_of_Belarus.ipynb](https://github.com/Govkrish3399/Forecasting-Car-Prices-in-Belarus/blob/main/Car_Price_Prediction_of_Belarus.ipynb)
  
- Goal : To understand driving factors behind loan decision.
+ Goal : To understand important features impacting car price.
 
- Description: The Data is gathered in two csv files " Previous application.csv" and "application.csv". The target feature in Previous applicaton is Name contract status which contains fields like Approved,Refused,Cancel,Unused offer and target feature in application file  contain 1 and 0, where 1 represents client with payment difficulties and 0 means other cases. The project include following steps like data loading, data cleaning and preproccessing, EDA( Exploratory Data Analysis), correlation analysis.
+ Description: The object of this project is to predict/forecast the car prices in Belarus, by analyzing car features like brand, engine, fuel type, segment, transmisson, mileage, drive unit, color.
 
-Skills: Data cleaning,Data analysis,Correlation analysis, Data visualization.
+The feature Description:
 
-Technology tools: Python, Pandas, Matplotlib, Seaborn.
+Brand: The car manufacturer.
 
-Results: From the correlation analysis, found out variable like EXT_Source 1, EXT_Source 2, EXT_Source 3, DAYS_BIRTH shows correlation with approval decision indication these features could play an important role in predicting credit decision. Observed differences in default contract rates, based on this wisdom lending institution should consider tailoring risk assessment and terms based on contract rates.
+Engine: Engine specifications.
+
+Fuel Type: Whether the car runs on gasoline, diesel, electric, or hybrid.
+
+Segment: Car segment.
+
+Transmission: Manual or automatic transmission.
+
+Mileage: Total distance the car has traveled.
+
+Drive Unit: Front-wheel drive, rear-wheel drive, or all-wheel drive. Color: Exterior color of the car.
+
+The dataset consist of 57,000 rows and 12 columns
+
+Skills: Data cleaning,EDA,Correlation analysis, Data Modelling, Data visualization.
+
+Tech stack: Python
+
+Results: The objective of this project was to forecast car prices in Belarus by examining features such as brand, year, engine, fuel type, transmission, mileage, drive unit, color, and segment. Exploratory data analysis revealed a marked increase in car prices in Belarus post-2000. Petrol cars with automatic transmissions are priced higher than diesel cars with manual transmissions. Electric cars, however, are notably more expensive than other types. Among drive units, all-wheel-drive vehicles command the highest prices. In terms of segments, specialty cars top the list, followed by luxury European, American, and Asian car segments.
+A decision tree classifier model was employed to predict car prices, achieving a 97% accuracy rate. The mileage, color are the most important features for predicting car price, followed by year and volume.
 
 **Project 2**: Covid 19 data exploration
 
@@ -42,7 +58,7 @@ Description: The dataset contains records of Covid-19 cases, deaths and vaccine 
 
 Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-Technology tool: SQL Server.
+Tech stack: SQL Server.
 
 **Education**
 
